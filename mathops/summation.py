@@ -2,7 +2,7 @@ import numpy as np
 
 def summation(a):
   """
-  Return summation result as floats.
+  Return summation of all elements from input array as floats.
 
   :param a: array a
   :type a: array
