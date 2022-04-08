@@ -1,7 +1,6 @@
 Usage
 =====
 .. _summation:
-.. _product:
 
 mathops.summation
 ------------------
@@ -14,6 +13,8 @@ you can use the ``mathops.summation()`` function:
     :members:
     :undoc-members:
     :show-inheritance:
+
+.. _product:
 
 mathops.product
 ------------------

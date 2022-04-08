@@ -7,7 +7,7 @@ Welcome to mathops's documentation!
 ====================================
 
 Check out the :doc:`usage` section for further information, including how to do array
-:ref:`summation <summation>` 
+:ref:`summation <summation>` ,
 :ref:`product <product>` 
 
 .. toctree::
